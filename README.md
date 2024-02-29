@@ -10,7 +10,7 @@
  </p>
 <p align="center"> 
   <kbd>
-<img src="[https://media.discordapp.net/attachments/1206721383820820553/1208461245267574825/Ekran_goruntusu_2024-02-17_200407.png?ex=65e35e3c&is=65d0e93c&hm=988881af963841a861645a50111c9013cd7abb86964a7efea0583016ce41d75d&=&format=webp&quality=lossless](https://static.vecteezy.com/system/resources/previews/028/132/875/original/nfx-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg)](https://static.vecteezy.com/system/resources/previews/028/132/875/original/nfx-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg)" width="328"></img>
+<img src="https://static.vecteezy.com/system/resources/previews/028/132/875/non_2x/nfx-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg" width="328"></img>
   </kbd>
 </p>
 
