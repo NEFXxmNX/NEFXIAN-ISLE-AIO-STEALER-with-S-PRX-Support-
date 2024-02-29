@@ -3,10 +3,10 @@
 #
 
 <h1 align="center">
-  Kayle Wallet Stealer
+  NEFXIAN ISLE AIO STEALER 
 </h1>
 <p align="center">
-  Telegram server: https://t.me/KayleWalletStealer
+  Website-https://set.page/avixverse/
  </p>
 <p align="center"> 
   <kbd>
@@ -52,7 +52,7 @@
 
 ### ⚔️ 〢 Features
 
-🔮 = JOIN TELEGRAM
+🔮 = JOIN DISCORD
 
 ```diff
 > Default:
